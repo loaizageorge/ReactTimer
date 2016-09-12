@@ -6,7 +6,7 @@ var Nav = ()=>{
       <div className ="top-bar">
         <div className="top-bar-left">
           <ul className="menu">
-            <li classNameName="menu-text">
+            <li className="menu-text">
               React Timer
             </li>
             <li >
@@ -19,7 +19,7 @@ var Nav = ()=>{
         </div>
         <div className="top-bar-right">
         <ul className="menu" >
-            <li className="menu-text"><a href="http://georgeloaiza.com/" target="_blank">Created by George Loaiza</a></li>
+            <li className="menu-text">Created by <a href="http://georgeloaiza.com/" target="_blank"> George Loaiza</a></li>
         </ul>
         </div>
       </div>
